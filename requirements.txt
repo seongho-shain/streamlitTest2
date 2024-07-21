@@ -3,6 +3,6 @@ streamlit
 streamlit_image_comparison
 numpy
 pandas
-opencv-python
+opencv-python-headless
 google-cloud-firestore
 google-auth-oauthlib 
