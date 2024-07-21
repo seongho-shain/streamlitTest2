@@ -1,0 +1,7 @@
+#requirements.txt
+streamlit
+streamlit_image_comparison
+numpy
+pandas
+opencv-python
+google-cloud-firestore
