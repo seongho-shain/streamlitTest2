@@ -5,3 +5,4 @@ numpy
 pandas
 opencv-python
 google-cloud-firestore
+google-auth-oauthlib 
